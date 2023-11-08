@@ -1,0 +1,17 @@
+c = 8
+c = 24
+a = 7
+c = 31
+mod = 3
+f = 4.5*3 = 13.5
+
+Valeur de a: 7
+Valeur de b: 3
+Valeur de c: 31
+Valeur de mod: 3
+Valeur de f: 6.7
+
+Instructions ajoutées:
+
+=> b = 5;
+=> mod = 6;
